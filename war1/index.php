@@ -11,7 +11,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Welcome to KISEC 2020</title>
-    <link href="../css/bootstrap.css" rel="stylesheet">
+    <link href="../css/bootstrap.mis.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
