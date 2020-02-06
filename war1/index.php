@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Welcome to KISEC 2020</title>
+    <title>Welcome to Hacker Factory : 해커 공장</title>
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
